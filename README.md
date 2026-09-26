@@ -33,10 +33,10 @@ cresce a cada item novo: 3 relatórios × 4 formatos exigiriam 12 subclasses com
 ## 3. Diagramas
 
 ### Diagrama de Classes
-![Diagrama de Classes](docs/diagrama-classes.png)
+![Diagrama de Classes](docs/diagrama-classes.jpg)
 
 ### Diagrama de Sequência
-![Diagrama de Sequência](docs/diagrama-sequencia.png)
+![Diagrama de Sequência](docs/diagrama-sequencia.jpg)
 
 O fluxo do diagrama de sequência é o seguinte:
 1. `Main` instancia o exportador concreto (`ExportadorPDF`).
